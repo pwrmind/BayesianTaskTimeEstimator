@@ -1,4 +1,4 @@
-# BayesianTaskTimeEstimator# Task Estimation Probability Calculator 🧮
+# BayesianTaskTimeEstimator Task Estimation Probability Calculator 🧮
 
 A flexible C# implementation for estimating task completion probabilities using Bayesian and fractal approaches. This tool helps project managers and developers improve their time estimation accuracy by applying mathematical models to real-world scenarios.
 
